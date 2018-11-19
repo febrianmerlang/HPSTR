@@ -6,8 +6,7 @@ tags: [sample post, images, test]
 ---
 
 
-<figure>
-<img src="../images/all4.jpg" alt=""></img>
+<img src="../images/all4.jpg" >
 	
-</figure>
+
 
