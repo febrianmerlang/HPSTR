@@ -6,7 +6,7 @@ tags: [sample post, images, test]
 ---
 
 
-<img src="/images/all4.JPG">
+<img src="../images/all4.jpg">
 
 Profil Saya 
 <p align ="justify">
