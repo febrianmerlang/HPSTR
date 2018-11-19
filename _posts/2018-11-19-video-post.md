@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Post with a Video"
+title: "Introduction Technical Faculty of Islamic University Suska Riau"
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 tags: [sample post, video]
 ---
