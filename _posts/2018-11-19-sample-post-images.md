@@ -4,7 +4,7 @@ title: "Want Know About me ? Check It out"
 description: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]
 ---
-
+<img src="all4.jpg" alt="">
 
 
 Profil Saya 
