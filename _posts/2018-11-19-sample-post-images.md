@@ -6,9 +6,8 @@ tags: [sample post, images, test]
 ---
 
 
-<img src="all4.jpg" >
+<img src="HPSTR/images/all4.jpg" >
 
 test
 	
-
 
